@@ -82,4 +82,6 @@ function restart() {
 
     gameOver.visible = false;
     obsG.destroyEach();
+    
+    score = 0;
 }
